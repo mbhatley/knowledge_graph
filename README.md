@@ -1,2 +1,2 @@
 # knowledge_graph
-Knowledge Graph project for UM-C Advanced AI Final Project
+Knowledge Graph project for Advanced AI Final Project
